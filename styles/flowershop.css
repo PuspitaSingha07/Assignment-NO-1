@@ -1,0 +1,114 @@
+/* common shared styles */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/* nav related style */
+
+nav {
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    
+}
+.banner-head{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    
+
+}
+.banner-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 32px;
+    margin-top: 32px;
+    
+
+}
+
+div{
+    margin: 197px 972px 365px 240px;
+
+}
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px 43px 20px 43px;
+    border: none;
+
+}
+#flower{
+    margin: 50px 240px 0px 97px;
+}
+
+
+.body-header{
+    color: #272727;
+    
+   
+   font-size: 40px;
+   font-weight: 800;
+   margin-top:50px;
+   
+
+}
+.body-description{
+    color: rgba(39, 39, 39, 0.60);
+    
+    font-size: 18px; 
+    font-weight: 400;
+    margin-bottom: 1px;
+    
+}
+
+.body-header , .body-description{
+    text-align: center;
+    margin-left: 600px;
+   
+    
+}
+.advanced{
+    background: #FFF;
+    display:flex;
+    justify-content: center;
+
+
+
+}
+.first{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 110px 78px 0px 76px;
+    margin: 1px 0px 10px 0px;
+}
+.second{
+     border-radius: 300px 300px 0px 0px;
+     background: rgba(5, 151, 160, 0.15);
+     padding: 117px 47px 51px 47px;
+     margin: 1px 24px 10px 24px;
+     
+}
+.third{
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);  
+    padding: 67px 75px 0px 75px;
+    margin: 1px 0px 10px 0px;
+
+    
+
+}
+.first-text , .second-text , .third-text {
+    color: #272727;
+    text-align: center;
+
+    font-size: 24px;
+
+    font-weight: 700;
+    margin-top: 0px;
+    text-decoration-line: underline;
+}
