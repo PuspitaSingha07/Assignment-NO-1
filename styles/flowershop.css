@@ -10,6 +10,8 @@ nav {
     background: rgba(229, 84, 115, 0.10);
     display: flex;
     
+
+    
 }
 .banner-head{
     color: #272727;
@@ -44,6 +46,8 @@ div{
 }
 #flower{
     margin: 50px 240px 0px 97px;
+
+
 }
 
 
@@ -69,6 +73,8 @@ div{
 .body-header , .body-description{
     text-align: center;
     margin-left: 600px;
+    
+
    
     
 }
@@ -158,7 +164,7 @@ div{
     
 
 }
-#off{
+.off{
     color: #E55473;
 }
 .insta {
@@ -222,5 +228,38 @@ div{
     border: none;
     margin-bottom: 100px;
 
+}
+
+.footer {
+    background: #111010;
+    color: white;
+    text-align: center;
+    width: 2100px;
+    height: 300px;
+    
+}
+.footer-title {
+    
+    font-size: 48px;
+    font-weight: 800;
+    padding:100px 832px 0px 829px;
+    
+    
+
+}
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 24px;
+
+}
+.footer-end
+{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
 
 }
