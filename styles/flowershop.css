@@ -9,10 +9,16 @@ body{
 nav {
     background: rgba(229, 84, 115, 0.10);
     display: flex;
-    
-
-    
+    height: 850px;
+   
 }
+
+.banner{
+    
+    height: 850px;
+
+}  
+
 .banner-head{
     color: #272727;
     font-size: 80px;
@@ -22,23 +28,23 @@ nav {
 }
 .banner-description{
     color: rgba(39, 39, 39, 0.60);
-    font-size: 18px;
+    font-size: 30px;
     font-weight: 400;
-    margin-bottom: 32px;
-    margin-top: 32px;
+    margin-bottom: 30px;
+    margin-top: 5px;
     
 
 }
 
 div{
-    margin: 197px 972px 365px 240px;
+    margin: 50px 400px 200px 240px;
 
 }
 .btn-primary{
     border-radius: 8px;
     background: #E55473;
     color: #FFF;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 700;
     padding: 20px 43px 20px 43px;
     border: none;
@@ -51,20 +57,24 @@ div{
 }
 
 
+
+.body-tittle{
+   
+     height: 4867px;
+}
+
 .body-header{
     color: #272727;
-    
-   
-   font-size: 40px;
+   font-size: 60px;
    font-weight: 800;
-   margin-top:50px;
+   margin-top:100px;
    
 
 }
 .body-description{
     color: rgba(39, 39, 39, 0.60);
     
-    font-size: 18px; 
+    font-size: 25px; 
     font-weight: 400;
     margin-bottom: 1px;
     
@@ -73,6 +83,7 @@ div{
 .body-header , .body-description{
     text-align: center;
     margin-left: 600px;
+    margin-right: 600px;
     
 
    
@@ -82,6 +93,8 @@ div{
     background: #FFF;
     display:flex;
     justify-content: center;
+    
+    height: 800px;
 
 
 
@@ -139,12 +152,14 @@ div{
     display: flex;
     justify-content: center;
     margin-top: 100px;
+    height: 620px;
+
 }
 .offer-2{
-    margin: 230px 400px 342px 500px;
+    margin: 100px 400px 342px 600px;
 }
 .offer-pic{
-    margin: 100px 600px 100px 500px;
+    margin: 100px 650px 100px 200px;
     width: 318px;
     height: 420px;
 }
@@ -158,9 +173,9 @@ div{
 }
 .offer-description{
     color: rgba(39, 39, 39, 0.60);
-    font-size: 18px;
+    font-size: 20px;
     font-weight: 400;
-    text-align: center;
+    
     
 
 }
@@ -169,20 +184,24 @@ div{
 }
 .insta {
     text-align: center;
-    margin-top: 100px;
+    margin-top: 80px;
 }
 .insta-title{
     color: #272727;
     text-align: center;
     font-size: 60px;
     font-weight: 800;
+    
+    height: 48px;
+    
 
 }
-.insta-description{
+.insta-description {
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
-    font-size: 38px;
+    font-size: 25px;
     font-weight: 400;
+    margin-top: 80px;
 }
 .flow{
     display: flex;
@@ -197,8 +216,10 @@ div{
 
     background: url('Rectangle\ 9.png'), lightgray 0px -203.444px / 100% 213.755% no-repeat;
     text-align:  center;
-    margin: 100px 285px 577px 285px;
+    margin: 100px 285px 300px 610px;
     background-repeat: no-repeat;
+    height: 449px;
+    width: 1440px;
     
     
 }
@@ -234,15 +255,18 @@ div{
     background: #111010;
     color: white;
     text-align: center;
-    width: 2100px;
-    height: 300px;
+    /* width: 3000px; */
+    height: 500px;
+
     
 }
 .footer-title {
     
-    font-size: 48px;
+    font-size: 70px;
     font-weight: 800;
-    padding:100px 832px 0px 829px;
+    padding:100px 800px 0px 829px;
+    text-align: center;
+    margin-bottom: 5px;
     
     
 
@@ -250,16 +274,17 @@ div{
 .footer-description {
     color: rgba(255, 255, 255, 0.90);
     text-align: center;
-    font-size: 18px;
+    font-size: 25px;
     font-weight: 400;
-    margin-top: 24px;
+    
+    
 
 }
 .footer-end
 {
     color: rgba(255, 255, 255, 0.40);
     text-align: center;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
 
 }
