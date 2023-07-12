@@ -219,10 +219,11 @@ div{
 
     background: url('Rectangle\ 9.png'), lightgray 0px -203.444px / 100% 213.755% no-repeat;
     text-align:  center;
-    margin: 120px 285px 300px 610px;
+    margin: 120px 285px 300px 1000px;
     background-repeat: no-repeat;
     height: 449px;
     width: 1440px;
+    
     
     
 }
@@ -233,7 +234,7 @@ div{
    font-weight: 800;
    background-position: 50%;
    padding: 100px 50px 5px 200px;
-   margin-left: 100px;
+
 
 }
 .last-description {
