@@ -217,9 +217,9 @@ div{
 .last{
     border-radius: 8px;
 
-    background: url('Rectangle\ 9.png'), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+    background: url('Rectangle\ 9.png');
     text-align:  center;
-    margin-top: 125px;
+    margin-top: 150px;
     padding-top: 6px;
     background-position: center;
     background-repeat: no-repeat;
@@ -229,7 +229,7 @@ div{
     
     
 }
-/* .last-title{
+.last-title{
     color: #272727;
    text-align: center;
    font-size: 40px;
@@ -246,7 +246,7 @@ div{
     font-weight: 400;
     padding: 0px 500px 20px 610px;
 
-} */
+}
 .last-input {
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
