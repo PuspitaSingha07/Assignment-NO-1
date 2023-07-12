@@ -4,6 +4,8 @@ body{
 }
 
 
+
+
 /* nav related style */
 
 nav {
@@ -61,6 +63,7 @@ div{
 .body-tittle{
    
      height: 4867px;
+     text-align: center;
 }
 
 .body-header{
