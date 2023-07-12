@@ -217,7 +217,7 @@ div{
 .last{
     border-radius: 8px;
 
-    background: url('Rectangle\ 9.png');
+    background-image: url('Rectangle\ 9.png');
     text-align:  center;
     margin-top: 150px;
     padding-top: 6px;
@@ -229,7 +229,7 @@ div{
     
     
 }
-.last-title{
+/* .last-title{
     color: #272727;
    text-align: center;
    font-size: 40px;
@@ -239,14 +239,14 @@ div{
 
 
 }
-/* .last-description {
+.last-description {
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-size: 18px;
     font-weight: 400;
     padding: 0px 500px 20px 610px;
 
-}
+} */
 .last-input {
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
@@ -256,7 +256,7 @@ div{
     border: none;
     margin-bottom: 100px;
 
-} */
+}
 
 .footer {
     background: #111010;
